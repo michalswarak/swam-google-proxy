@@ -1,8 +1,0 @@
-{
-  "name": "swam-google-proxy",
-  "version": "1.0.0",
-  "type": "module",
-  "dependencies": {
-    "googleapis": "^135.0.0"
-  }
-}
